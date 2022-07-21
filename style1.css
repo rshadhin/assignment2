@@ -1,0 +1,176 @@
+/* 1st website */
+.first-portion {
+    font-family: 'Poppins', sans-serif;
+
+
+    /* background-color: aqua;
+    width: 1126px;
+    height: 646px;
+    margin: 140px 80px;
+    padding: 20px;
+    border-radius: 20px; */
+
+
+}
+
+.first {
+    font-size: 45px;
+    color: white;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: aliceblue
+}
+
+
+
+.container {
+    display: flex;
+    background-color: black;
+    width: 1000px;
+    height: 500px;
+    margin: 180px 80px;
+    color: aliceblue;
+
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.boxiz {
+    background-color: black;
+    border-radius: 10px;
+    width: 230px;
+    height: 200px;
+    padding: 20px;
+
+}
+
+
+.box {
+    background-color: whitesmoke;
+    padding: 10px 70px;
+    border-radius: 5px;
+    font-weight: 700;
+    width: 40px;
+    margin: 20px;
+    text-align: center;
+
+
+
+}
+
+.players {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.player {
+    border-radius: 5px;
+    border: 5px solid whitesmoke;
+    margin: 10px;
+    padding: 10px;
+}
+
+.fifa {
+    display: flex;
+    margin: 0px;
+    padding: 10px;
+}
+
+.player p {
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cla {
+    display: flex;
+
+}
+
+.cla .ico {
+    margin-left: 20px;
+}
+
+.final-section {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    line-height: 150px;
+
+
+}
+
+.final {
+    color: aliceblue;
+
+    text-align: center;
+
+}
+
+.mm {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+hr {
+    border: 0.5px solid aliceblue;
+    width: 80%;
+
+
+}
+
+.am {
+    display: flex;
+
+    padding-left: 70px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.pm {
+    margin-right: 40px;
+}
+
+/* -----------
+2nd website -----------*/
+.teams {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.team {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    gap: 0;
+}
+
+.mg {
+    margin: 18px;
+    border: 1px solid;
+    border-radius: 1px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.mp {
+    font-weight: 700;
+
+}
+
+.verse {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.icons {
+    margin-right: 20px;
+}
